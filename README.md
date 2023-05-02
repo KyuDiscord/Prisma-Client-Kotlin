@@ -1,2 +1,3 @@
-# PCK
-Prisma Client for Kotlin
+# Prisma Client Rust
+
+Idiomatic database access for Kotlin
